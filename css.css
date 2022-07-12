@@ -1,0 +1,87 @@
+input{
+    outline: 0;
+    border: 0;
+    background-color: transparent;
+}
+#plus{
+    position: relative;
+    left: 104px;
+    height: 30px;
+}
+#minus{
+    position: relative;
+    left: 6px;
+    height: 30px;
+    
+}
+#current{
+    position: absolute;
+    left: 47px;
+    margin:0px;
+}
+h1{
+    display: inline;
+    font-size: 25px;
+}
+span{
+    border: 6px;
+    text-align: center;
+}
+#today{
+    background-color: lightgrey;
+}
+#달력바디{
+    position: relative;
+    padding: 10px;
+    outline: auto;
+    width: 133px;
+    height: 127px;
+}
+
+#요일{
+    font-size: 14px;
+}
+.d6{
+    color: blue;
+    position: absolute;
+    left: 110px;
+    font-size: 10px;
+    text-align: center;
+}
+.d0{
+    color: red;
+    position: absolute;
+    left: 130px;
+    font-size: 10px;
+    text-align: center;
+}
+.d5{
+    position: absolute;
+    left: 90px;
+    font-size: 10px;
+    text-align: center;
+}
+.d4{
+    position: absolute;
+    left: 70px;
+    font-size: 10px;
+    text-align: center;
+}
+.d3{
+    position: absolute;
+    left: 50px;
+    font-size: 10px;
+    text-align: center;
+}
+.d2{
+    position: absolute;
+    left: 30px;
+    font-size: 10px;
+    text-align: center;
+}
+.d1{
+    position: absolute;
+    left: 10px;
+    font-size: 10px;
+    text-align: center;
+}
