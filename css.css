@@ -27,6 +27,9 @@ span{
     border: 6px;
     text-align: center;
 }
+#요일{
+    font-size: 13px;
+}
 #today{
     background-color: lightgrey;
 }
@@ -38,9 +41,6 @@ span{
     height: 127px;
 }
 
-#요일{
-    font-size: 14px;
-}
 .d6{
     color: blue;
     position: absolute;
