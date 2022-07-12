@@ -46,7 +46,6 @@ function main(){
         if (firstd.getDay() == 0){
             div.append(br)
         }
-        console.log(firstd)
         firstd = new Date(date.getFullYear(),date.getMonth(),temp)
     }
     temp = 1
