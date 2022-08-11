@@ -77,3 +77,10 @@ function click(e){
 //실행
 
 main()
+
+
+console.log()
+
+let a = document.createElement("h1")
+a.innerText = `${localStorage.id}`+"님 환영합니다."
+document.body.append(a)

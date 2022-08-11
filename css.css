@@ -40,6 +40,12 @@ span{
     width: 133px;
     height: 127px;
 }
+#달력바디 :hover{
+    color: aqua;
+}
+#달력바디 :active{
+    color: green;
+}
 
 .d6{
     color: blue;
